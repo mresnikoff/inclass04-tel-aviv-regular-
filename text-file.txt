@@ -2,6 +2,6 @@
 More Text
 A new line followed by text
 HELLO
-
+It works!
 
 Text
