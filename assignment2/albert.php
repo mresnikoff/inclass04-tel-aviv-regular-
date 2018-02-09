@@ -1,0 +1,25 @@
+<?php include "inc/html-top.inc"; ?>
+
+
+<?php include "inc/nav.inc"; ?>
+
+	<article>
+		<h2>Albert Nissim</h2>
+		<img class="right img-frame" src="images/albert.png" alt="Albert">
+		<p>My name is Albert Nissim and I am a senior at the University of Rochester. I am majoring in Business and digital Media Studies. I knew I wanted to double major in these areas when I started here in the fall of 2014. I went to high school in New York city and attended the Ramaz Upper School. Prior to that I went to Moriah in my hometown of Englewood. I decided to major in both business and digital media because I think it combines my best skills in an exciting way. I like to be creative and I also really enjoy collaborating and working in groups. Over the years I have been able to work on many cool projects and teams. I have also been lucky enough to have some great internships while at the University of Rochester. It all started as a sophomore for me when I decided to go on the University’s Art NY program. The program was a one semester long program in New York City run through the university. The head of the program was Elizabeth Cohen and she was a phenomenal person. She helped me secure an internship at a digital agency and took us on trips as a group every Friday of the semester. We got to visit MoMa PS1, the actual MoMa, the Metropolitan Museum of Art, the Guggenheim, the High Line, the Whitney and many galleries in Chelsea and Brooklyn as well. It was really an amazing experience. For my internship, at EIC Agency, I was an intern under the COO and co-founder of the agency. It was a hard and rigorous internship but I learned a lot from it. This work experience helped me land my next internship at Skubana. Skubana is a technology company with offices in Cresskill, NJ and New York City. I was lucky enough to be able to work at both offices and learned a lot about B2B markets and culture. It was a very young and energetic office and the best part was when they brought in a keg on Friday afternoons. Fridays were the best day of the week because we also all got to go out for lunch together too. As a junior I was taking a lot of classes while back at school and was the social chair for my fraternity, Theta Chi, as well. I started my next internship only three days after getting back from school. In those three days I also got all of my wisdom teeth removed. The company I worked for last summer was is called Group 8A. It is a great place where I learned so many new skills and met some really great people. The office is in Chelsea Manhattan with a breathtaking view of both the Hudson River, Hudson Yards, and downtown NYC. The building the office is located in used to be a train station and there is even an elevator inside the building that can take large trucks up and down to each floor. There was a taco truck right outside the front doors of my office all summer called Takumi Taco. They had some really great tacos. My responsibilities were different depending on the day, but some of my biggest projects included setting up an analytics software for the company that would track how much money was being spent on each client and also tracking how those marketing dollars were creating revenue for each client. Essentially it was a tool that compared how much money was being spent to how much money was being made and the smaller the ratio was, the better it was for the company. With a low “marketing percentage”, the sales team would be able to pitch to clients that their money was going to the right agency. I also got to sit in on client meetings, created reports on my analytical findings, researched different industries and built some furniture during my time there as well. Out of all my internships, working at group 8A was definitely my favorite. Outside of work I like to play sports, hang out with friends, and am constantly finding new music to listen to and play at parties. I like exploring different places to eat in Rochester as well. I have had multiple positons within my fraternity as well including Rush Chair, Social Chair, and alumni Liaison. I lived in the fraternity house during my sophomore and junior year at school and as a senior I am living off campus with some of my friends.</p>
+		
+	</article>
+
+	<aside>
+		<h2>More about Albert</h2>
+		<p>I have taken a wide variety of courses while attending the University of Rochester. Ciourses I’ve taken include: MTH 141, MTH 142, MTH 143, ECO 108, ECO 207, ACC 201, FIN 205, MKT 203, MKT 213, MKT 235, STT 213, CSC 108, CSC 161, CSC 170, CSC 174, DMS 101, DMS 103, DMS 104, DMS 200W, DMS 371, DMS 372, DMS 373, HEB 103. Clubs I have been a part of include Theta Chi Fraternity, Chabad board member, Intramural basketball, football, and soccer. I have also been involved with the Entrepreneurship club and have made an appearance on WRUR radio station with my friends Ilan Goldberg and Mark Yde.</p>
+	</aside>
+
+	
+
+</div><!--.container-->
+
+<script src="http://code.jquery.com/jquery.js"></script>
+    <script src="js/menu-highlighter.js"></script>
+</body>
+</html>
