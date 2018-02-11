@@ -5,7 +5,7 @@
 	<script src="http://code.jquery.com/jquery.js"></script>
     <script src="js/menu-highlighter.js"></script>
 	<title>Assignment 2</title>
-	<link rel="stylesheet" href="CSS/styles.css">
+	<link rel="stylesheet" href="css/styles.css">
 	
 </head>
 <body>
