@@ -12,5 +12,5 @@
 <div class="container">
 
 	<header>
-		<h1><a href="index.php">Assignment 2</a></h1>
+		<h1><a href="home.php">Assignment 2</a></h1>
 	</header>
