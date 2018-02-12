@@ -22,6 +22,12 @@
 			I really like to go hiking and fishing, and I love the outdoors. My favorite animal is the wallaby as it reminds me of myself. 
 			I like to wear pants, but I prefer shorts. I also tend to have a craving for anything chewy, as chewy snacks are my favorite. 
 			I hate soup, I think that it is very poor for the soul. My role model in life is Paul Pierce, as he is the greatest basketball player to ever live.
+			At the age of 12, I once fell off of my scooter and broke 8 toes. This was a very strange time for me as I was unable to walk until
+			all of my toes were healed. I had to be wheel chaired around my middle school by my friends for a long period of time. This was particularly difficult because I am personally a very active person,
+			and so it was hard for me to deal with not being able to do my normal activities, let alone walk. During this period, I became particularly skilled at sudoku.
+			I started playing 3-5 hours a day, and ended up becoming a professional sudoku player by the age of 14. I participated in many tournaments world wide, winning my biggest achievement in the 14u
+			tournament that took place in Sri Lanka. I stopped playing sudoku when I turned 16, and have not completed a puzzle ever since. I often think about what my life would be like
+			if I pursued my talent in soduku rather than going to college, but hindsight is 2020.
 
 
 
