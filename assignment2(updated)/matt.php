@@ -24,7 +24,7 @@
 	</article>
 
 	<aside>
-		<h2>More about me!</h2>
+		<h2>More about Matt</h2>
 		<p>On top of being pretty into sports I also am a big comic book guy. I'm a huge fan of all the Marvel movies that've been coming out, not so keen on the DC stuff since it's kind of sucked but I'm a big fan of the DC characters. At the U of R I've taken tons of courses. Those courses consist of The Politics of Sport, Financial Accounting, Web Design, Intro to Programming, Intro to Computer Science, Mobile App Development, Principles of Economics, Intermediate Macro and Micro, Sports Econ, Econometrics, Industrial Organization, Intro to Debate, Reporting and Writing the News, Feature Writing, Creative Writing: Fiction, Editing, Calc 1 and 2, Moral Problems, Elements of Probability and Statistics, and the Rhetoric of Nationalism.</p>
 	</aside>
 
