@@ -5,7 +5,7 @@
 
 	<article>
 		<h2>Matt Resnikoff</h2>
-		<img class="right img-frame" src="images/matt.JPG" alt="Fed">
+		<img class="right img-frame" src="images/matt.jpg" alt="Fed">
 		<p>My name is Matt Resnikoff. I am currently a Junior at the U of R, majoring in Economics and double minoring in Computer Science and Journalism. 
 			I got into Comp Sci fairly recently, but I have a lot of fun with the coding aspects which is why I decided to start off as the group coder. I really like tennis, both watching and playing. I just recently joined the varsity team after being a part of the club team for the past two and a half years. 
 			My favorite player is Roger Federer (duh). I'm also into watching other pro sports, mainly Football and Basketball.
