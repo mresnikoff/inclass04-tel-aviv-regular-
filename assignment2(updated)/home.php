@@ -11,7 +11,7 @@
 <div class="hero-container">
 
 <div class="slider">
-  <img src="images/matt.jpg" alt="Matt">
+  <img src="images/matt.jpeg" alt="Matt">
   <img src="images/oliver.png" alt="Oliver">
   <img src="images/albert.png" alt="Albert">
   
