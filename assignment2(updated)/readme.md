@@ -1,1 +1,1 @@
-
+For this assignment, Oliver Ostriker acted as the Information Architect, Matt Resnikoff acted as the Coder, and Albert Nissim acted as the Design Artist. Our website has 3 pages dedicated to each members of the team, along with a home page that includes a slideshow with pictures of each of the team members. We hope that you enjoy our work!
