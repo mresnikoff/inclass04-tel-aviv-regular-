@@ -16,7 +16,12 @@
 			That's basically the jersey shore (which has a bad rep for some reason) and it is a wonderful place to grow up. 
 			Being 15 minutes away from the beach is fantastic and the town is nice and small so everyone knows everyone.  
 			I went to Shore Regional High School, our local public school. There I had a pretty decent tennis career.
-			I managed to make all conferance 3 times, the picture of the all conferance team that made the paper my senior year is to the right.
+			I managed to make all conferance 3 times. My tennis career has opened up a number of opportunities throughout my life. 
+			I also love to travel, whether it be with friends or with family. My favorite class that I have taken in college was computer science 170, where I learned all about web design. 
+			I also really enjoyed sports economics, taught by professor Rizzo. Here I learned all about different economic papers that relate to topics within sports. 
+			I really like to go hiking and fishing, and I love the outdoors. My favorite animal is the wallaby as it reminds me of myself. 
+			I like to wear pants, but I prefer shorts. I also tend to have a craving for anything chewy, as chewy snacks are my favorite. 
+			I hate soup, I think that it is very poor for the soul. My role model in life is Paul Pierce, as he is the greatest basketball player to ever live.
 
 
 
