@@ -3,10 +3,9 @@
 
 <?php include "inc/nav.inc"; ?>
 
-	
-		<h2>Welcome to our portfolios!</h2>
-		
-
+<header>	
+	<h2>Welcome to our portfolios!</h2>
+</header>
 	
 <div class="hero-container">
 
@@ -23,7 +22,6 @@
 <script>
 $('.slider').sss();
 </script>
-</div><!--.container-->
 
 <script src="http://code.jquery.com/jquery.js"></script>
     <script src="js/menu-highlighter.js"></script>
