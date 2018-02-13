@@ -2,12 +2,9 @@
 
 
 <?php include "inc/nav.inc"; ?>
-
-<header>	
+	
 	<h2>Welcome to our portfolios!</h2>
-</header>
 
-<body>
 <div class="hero-container">
 
 <div class="slider">
@@ -17,6 +14,7 @@
 </div>
 
 </div><!-- .hero-container -->
+</div><!-- .container -->
 	
 	<h3>Information Architect - Oliver Ostriker</h3>
 	<p><a href = "oliver.php" title = "More on Oliver"> Click here for more on Oliver</a></p>
