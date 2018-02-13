@@ -14,7 +14,6 @@
   <img src="images/matt.jpeg" alt="Matt">
   <img src="images/oliver.png" alt="Oliver">
   <img src="images/albert.png" alt="Albert">
-  
 </div>
 
 </div><!-- .hero-container -->
